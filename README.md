@@ -15,7 +15,7 @@
       <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/35188065836243.png" alt="ITF" width="100%" height="100%">
     </a>
   </td>
-  <td>$100</td>
+  <td><img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/35188065836243.png" alt="ITF" width="100%" height="100%"></td>
 </tr>
 <tr>
   <td>February</td>
