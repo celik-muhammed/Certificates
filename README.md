@@ -1,11 +1,11 @@
-<table style="width:50%;">
-  <thead style="vertical-align:bottom">
-    <tr style="height:100px">
+<table>
+  <thead>
+    <tr>
       <th>Month</th>
       <th>Savings</th>
     </tr>
   </thead>
-   <tbody>
+  <tbody>
     <tr>
       <td>January</td>
       <td>$100</td>
@@ -15,4 +15,10 @@
       <td>$80</td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td>Sum</td>
+      <td>$180</td>
+    </tr>
+  </tfoot>
 </table>
