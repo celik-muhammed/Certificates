@@ -1,32 +1,11 @@
-<table align='center'>
-  <caption><div align='center'><kbd><br> Certificates <br><br></kbd></div></caption>
-<thead>
-<tr>
-  <th>Python</th>
-  <th>Data Science</th>
-  <th>SQL and Visualization</th>
-</tr>
-</thead>
-  
-<tbody>
-<tr>
-  <td>
-    <a target="blank" href="https://d34lllqo5jm5il.cloudfront.net/en/verify/35188065836243?ref=email">
-      <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/35188065836243.png" alt="ITF" width="100%" height="100%">
-    </a>
-  </td>
-  <td><img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/35188065836243.png" alt="ITF" width="100%" height="100%"></td>
-</tr>
-<tr>
-  <td>February</td>
-  <td>$80</td>
-</tr>
-</tbody>
-  
-<tfoot>
-<tr>
-  <td>Sum</td>
-  <td>$180</td>
-</tr>
-</tfoot>
-</table>
+<!-- Load font awesome icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- The social media icon bar -->
+<div class="icon-bar">
+  <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+  <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+  <a href="#" class="google"><i class="fa fa-google"></i></a>
+  <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+  <a href="#" class="youtube"><i class="fa fa-youtube"></i></a>
+</div>
